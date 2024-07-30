@@ -1,0 +1,60 @@
+*{
+    font-size: 17px;
+    font-family: sans-serif;
+  }
+  h1 {
+    font-size: 3em;
+    font-weight: 800;
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  body{
+    background-color: #eee;
+    color: #333;
+  }
+  img {
+      max-width: 100%;
+      display: block;
+      height: auto;
+      margin: 0 auto;
+  }
+  
+  figure{
+    background-color: white;
+    margin: auto
+  }
+  figcaption{
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 15px 0 10px 0;
+  }
+  
+  h2 {
+    font-size: 2em;
+    text-align: center;
+    margin: 50px 0;
+  }
+  
+  section{
+    max-width: 600px;
+    margin: 0 auto 50px auto;
+    display: block;
+  }
+  
+  /* ul{
+    max-width: 600px;
+    margin: 0 auto 50px auto;
+  } */
+  li{
+    display: list-item;
+    margin: 15px 0;
+    word-spacing: 4px;
+    
+  }
+  
+  h3{
+    font-size: 1.3rem;
+  }
+  
